@@ -1,7 +1,7 @@
 # FastCampus Java 과정 Renewal
 
 #### 기존에 제공 되어 졌었던 패스트 캠퍼스 어드민 개발을 현재의 버전에 맞게 Renewal 합니다.
-#### 9.7일 FastCampus Java 과정 08과정 완료
+#### FastCampus Java 과정 08과정 완료
 ***
 
 
