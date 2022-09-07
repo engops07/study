@@ -43,8 +43,8 @@ public class PostController {
 
     }
 
-//    @PatchMapping()
-//    public void patch(){
-//
-//    }
+    @PatchMapping()
+    public void patch(){
+
+    }
 }
