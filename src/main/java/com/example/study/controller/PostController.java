@@ -38,13 +38,13 @@ public class PostController {
     // POST = (CREATE) / user
     // PUT, PATCH = (UPDATE) * CRATE /user
     // DELETE = (DELETE) /user/{1}
-//    @PutMapping()
-//    public void put(){
-//
-//    }
-//
-//    @PatchMapping()
-//    public void patch(){
-//
-//    }
+    @PutMapping()
+    public void put(){
+
+    }
+
+    @PatchMapping()
+    public void patch(){
+
+    }
 }
